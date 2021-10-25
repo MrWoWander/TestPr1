@@ -1,6 +1,13 @@
 public class Loder3 {
 
+
     /*
+    awdhawodhoawdh
+    adwdoajdoi
+            awdjawodjawdhawodhoawdh
+    adwdoajdoi
+            awdjawodj
+
     [abc] - правила для символа
     [^abc] - отрицание
     \\s - пробел
